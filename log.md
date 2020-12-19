@@ -9,12 +9,12 @@
 **Link to work:**  kmj673 / 100-days-of-code  (https://github.com/kmj673/100-days-of-code)
 
 
-### Day 1: June 27, Monday
+### Day 1: December 19, 2020 Saturday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I made clcok works with JS and HTML and CSS.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** I guess it was too much things that I don't know and I almost copy and paste. Spelling problem occured but it fixed by youtube comments help...
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [D1 commit](https://github.com/kmj673/100-days-of-code/tree/master/Daily%20Code%20Log/jsclock)
+2. [Javascript Clock | CSS Neumorphism Working Analog Clock UI Design](https://www.youtube.com/watch?v=weZFfrjF-k4&list=WL&index=5&ab_channel=OnlineTutorials)
