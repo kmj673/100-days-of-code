@@ -8,7 +8,7 @@
 
 **Link(s) to work**
 
-1. [D1 commit](https://github.com/kmj673/100-days-of-code/tree/master/Daily%20Code%20Log/D2%20Hot%20Cup%20of%20Tea)
+1. [D2 commit](https://github.com/kmj673/100-days-of-code/tree/master/Daily%20Code%20Log/D2%20Hot%20Cup%20of%20Tea)
 2. [Animated Hot Cup of Tea using Html & CSS only | CSS Animation Effects](https://www.youtube.com/watch?v=_jOqYe0eFqY&ab_channel=OnlineTutorials)
 
 ### Day 1: December 19, 2020 Saturday
