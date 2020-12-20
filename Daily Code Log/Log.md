@@ -2,7 +2,7 @@
 
 ### Day 2: December 20, 2020 Sunday
 
-**Today's Progress**: I made Hot Cup of Tea with HTML and CSS.
+**Today's Progress**: I made Hot Cup of Tea with HTML and CSS. Learned if I want to use calc then it needs spacing(!very important) and lineargradient.
 
 **Thoughts** I guess I know nothing about CSS. adn CSS has a lot of potential things to try to do.
 
