@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 3: December 21, 2020 Monday
+
+**Today's Progress**: I made a coke slider with swiper js. and there was WEBKIT TEXT STROKE that can be design factor.
+
+**Thoughts** almost copy and paste. I need to build on my own.
+
+**Link(s) to work**
+
+1. [D3 commit](https://github.com/kmj673/100-days-of-code/tree/master/Daily%20Code%20Log/D3%20Coke%20Slider)
+2. [Responsive and Flexible Mobile Touch Slider using Html CSS & Swiper js](https://youtu.be/bIUaxNFQTok)
+
 ### Day 2: December 20, 2020 Sunday
 
 **Today's Progress**: I made Hot Cup of Tea with HTML and CSS. Learned if I want to use calc then it needs spacing(!very important) and lineargradient.
