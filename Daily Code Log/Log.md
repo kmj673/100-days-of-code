@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 4: December 22, 2020 Tuesday
+
+**Today's Progress**: I learned svg filter feTurbulence and feDisplacementMap. I made the fire effect on text "Fire". It is cool.
+
+**Thoughts** learned new things but not very much relatble to know. but I will use someday.
+
+**Link(s) to work**
+
+1. [D4 commit](https://github.com/kmj673/100-days-of-code/tree/master/Daily%20Code%20Log/D4%20Fire%20text)
+2. [Fire Text Animation Effects | CSS SVG Animated Text Typography](https://youtu.be/FbChgmBVxtw)
+
 ### Day 3: December 21, 2020 Monday
 
 **Today's Progress**: I made a coke slider with swiper js. and there was WEBKIT TEXT STROKE that can be design factor.
