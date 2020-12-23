@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 5: December 23, 2020 Wednesday
+
+**Today's Progress**: I learned hue rotate(), box-shadow inset, pseudo-elements and Custom properties (--\*): CSS variables. it is kind of automatic cylinder with colore changing.
+
+**Thoughts** I realize every detail of shadow makes it looks very natural on the web.
+
+**Link(s) to work**
+
+1. [D5 commit](https://github.com/kmj673/100-days-of-code/tree/master/Daily%20Code%20Log/D5%20Neumorphism)
+2. [Creative CSS Animation Effects | CSS3 Neumorphism](https://youtu.be/XGok4UIqu8E)
+
 ### Day 4: December 22, 2020 Tuesday
 
 **Today's Progress**: I learned svg filter feTurbulence and feDisplacementMap. I made the fire effect on text "Fire". It is cool.
