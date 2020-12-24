@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 6: December 24, 2020 Thursday
+
+**Today's Progress**: I made a christmas banner with bubble effect background. and I learend how to put 'px' and 's' when it is in scrip. I also learned transform-origin and CSS :nth-child() Selector.
+
+**Thoughts** the @keyframes is really useful for some animation that needs to be consistently moved.
+
+**Link(s) to work**
+
+1. [D6 commit](https://github.com/kmj673/100-days-of-code/tree/master/Daily%20Code%20Log/D6%20Christmas%20Banner)
+2. [Animated Christmas Banner using Html CSS & Javascript | CSS Animation Effects](https://youtu.be/j7MWgFeL1pw)
+
 ### Day 5: December 23, 2020 Wednesday
 
 **Today's Progress**: I learned hue rotate(), box-shadow inset, pseudo-elements and Custom properties (--\*): CSS variables. it is kind of automatic cylinder with colore changing.
