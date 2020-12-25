@@ -8,8 +8,8 @@
 
 **Link(s) to work**
 
-1. [D7 commit]()
-2. []()
+1. [D7 commit](https://github.com/kmj673/100-days-of-code/tree/master/Daily%20Code%20Log/D7%20Pepsi)
+2. [Creative Landing Page Design using Html CSS & Javascript | Website Design Tutorial](https://youtu.be/s_z5laE4KTw)
 
 ### Day 6: December 24, 2020 Thursday
 
