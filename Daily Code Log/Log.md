@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 7: December 25, 2020 Friday
+
+**Today's Progress**: I made Pepsi site which you can click and hover pepsi images and see the bgcolor changing when thumb is clicked. I learned that how to put JS in html. watch out the syntax with quote and double quote symbol.
+
+**Thoughts** quite good work to imply on my own website later. very easy and intuitive.
+
+**Link(s) to work**
+
+1. [D7 commit]()
+2. []()
+
 ### Day 6: December 24, 2020 Thursday
 
 **Today's Progress**: I made a christmas banner with bubble effect background. and I learend how to put 'px' and 's' when it is in scrip. I also learned transform-origin and CSS :nth-child() Selector.
