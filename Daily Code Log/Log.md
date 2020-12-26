@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 8: December 26, 2020 Saturday
+
+**Today's Progress**: I made calculator only with css and html. pretty much easier than I thought. "onclick" is very useful.
+
+**Thoughts**: currently only copy and paste with youtube video. need more independence.
+
+**Link(s) to work**
+
+1. [D8 commit](https://github.com/kmj673/100-days-of-code/tree/master/Daily%20Code%20Log/D8%20Calculator)
+2. [How to make Calculator With JavaScript | CSS Glassmorphism Effects | Glass morphism]https://youtu.be/NhcZh8Bwr30)
+
 ### Day 7: December 25, 2020 Friday
 
 **Today's Progress**: I made Pepsi site which you can click and hover pepsi images and see the bgcolor changing when thumb is clicked. I learned that how to put JS in html. watch out the syntax with quote and double quote symbol.
