@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 9: December 27, 2020 Sunday
+
+**Today's Progress**: I made a cat with CSS.
+
+**Thoughts**: CSS is very detailed method to manage every html object.
+
+**Link(s) to work**
+
+1. [D9 commit](https://github.com/kmj673/100-days-of-code/tree/master/Daily%20Code%20Log/D9%20Cat)
+2. [Cat Illustration CSS | Speed Coding CSS | CSS Illustration | CSS Speed Art](https://youtu.be/W0uw0zGRwoQ)
+
 ### Day 8: December 26, 2020 Saturday
 
 **Today's Progress**: I made calculator only with css and html. pretty much easier than I thought. "onclick" is very useful.
