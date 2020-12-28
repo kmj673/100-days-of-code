@@ -18,7 +18,7 @@
 
 **Link(s) to work**
 
-1. [D9 commit](https://github.com/kmj673/100-days-of-code/tree/master/Daily%20Code%20Log/D9%20Cat)
+1. [D9 commit](https://github.com/kmj673/100-days-of-code/tree/master/Daily%20Code%20Log/D09%20Cat)
 2. [Cat Illustration CSS | Speed Coding CSS | CSS Illustration | CSS Speed Art](https://youtu.be/W0uw0zGRwoQ)
 
 ### Day 8: December 26, 2020 Saturday
@@ -29,8 +29,8 @@
 
 **Link(s) to work**
 
-1. [D8 commit](https://github.com/kmj673/100-days-of-code/tree/master/Daily%20Code%20Log/D8%20Calculator)
-2. [How to make Calculator With JavaScript | CSS Glassmorphism Effects | Glass morphism]https://youtu.be/NhcZh8Bwr30)
+1. [D8 commit](https://github.com/kmj673/100-days-of-code/tree/master/Daily%20Code%20Log/D08%20Calculator)
+2. [How to make Calculator With JavaScript | CSS Glassmorphism Effects | Glass morphism](https://youtu.be/NhcZh8Bwr30)
 
 ### Day 7: December 25, 2020 Friday
 
@@ -40,7 +40,7 @@
 
 **Link(s) to work**
 
-1. [D7 commit](https://github.com/kmj673/100-days-of-code/tree/master/Daily%20Code%20Log/D7%20Pepsi)
+1. [D7 commit](https://github.com/kmj673/100-days-of-code/tree/master/Daily%20Code%20Log/D07%20Pepsi)
 2. [Creative Landing Page Design using Html CSS & Javascript | Website Design Tutorial](https://youtu.be/s_z5laE4KTw)
 
 ### Day 6: December 24, 2020 Thursday
@@ -51,7 +51,7 @@
 
 **Link(s) to work**
 
-1. [D6 commit](https://github.com/kmj673/100-days-of-code/tree/master/Daily%20Code%20Log/D6%20Christmas%20Banner)
+1. [D6 commit](https://github.com/kmj673/100-days-of-code/tree/master/Daily%20Code%20Log/D06%20Christmas%20Banner)
 2. [Animated Christmas Banner using Html CSS & Javascript | CSS Animation Effects](https://youtu.be/j7MWgFeL1pw)
 
 ### Day 5: December 23, 2020 Wednesday
@@ -62,7 +62,7 @@
 
 **Link(s) to work**
 
-1. [D5 commit](https://github.com/kmj673/100-days-of-code/tree/master/Daily%20Code%20Log/D5%20Neumorphism)
+1. [D5 commit](https://github.com/kmj673/100-days-of-code/tree/master/Daily%20Code%20Log/D05%20Neumorphism)
 2. [Creative CSS Animation Effects | CSS3 Neumorphism](https://youtu.be/XGok4UIqu8E)
 
 ### Day 4: December 22, 2020 Tuesday
@@ -73,7 +73,7 @@
 
 **Link(s) to work**
 
-1. [D4 commit](https://github.com/kmj673/100-days-of-code/tree/master/Daily%20Code%20Log/D4%20Fire%20text)
+1. [D4 commit](https://github.com/kmj673/100-days-of-code/tree/master/Daily%20Code%20Log/D04%20Fire%20text)
 2. [Fire Text Animation Effects | CSS SVG Animated Text Typography](https://youtu.be/FbChgmBVxtw)
 
 ### Day 3: December 21, 2020 Monday
@@ -84,7 +84,7 @@
 
 **Link(s) to work**
 
-1. [D3 commit](https://github.com/kmj673/100-days-of-code/tree/master/Daily%20Code%20Log/D3%20Coke%20Slider)
+1. [D3 commit](https://github.com/kmj673/100-days-of-code/tree/master/Daily%20Code%20Log/D03%20Coke%20Slider)
 2. [Responsive and Flexible Mobile Touch Slider using Html CSS & Swiper js](https://youtu.be/bIUaxNFQTok)
 
 ### Day 2: December 20, 2020 Sunday
@@ -95,7 +95,7 @@
 
 **Link(s) to work**
 
-1. [D2 commit](https://github.com/kmj673/100-days-of-code/tree/master/Daily%20Code%20Log/D2%20Hot%20Cup%20of%20Tea)
+1. [D2 commit](https://github.com/kmj673/100-days-of-code/tree/master/Daily%20Code%20Log/D02%20Hot%20Cup%20of%20Tea)
 2. [Animated Hot Cup of Tea using Html & CSS only | CSS Animation Effects](https://www.youtube.com/watch?v=_jOqYe0eFqY&ab_channel=OnlineTutorials)
 
 ### Day 1: December 19, 2020 Saturday
@@ -106,7 +106,7 @@
 
 **Link(s) to work**
 
-1. [D1 commit](https://github.com/kmj673/100-days-of-code/tree/master/Daily%20Code%20Log/jsclock)
+1. [D1 commit](https://github.com/kmj673/100-days-of-code/tree/master/Daily%20Code%20Log/D01%20jsclock)
 2. [Javascript Clock | CSS Neumorphism Working Analog Clock UI Design](https://www.youtube.com/watch?v=weZFfrjF-k4&list=WL&index=5&ab_channel=OnlineTutorials)
 
 ### Day 0: December 18, 2020
