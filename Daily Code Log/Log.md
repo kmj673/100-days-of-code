@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 10: December 28, 2020 Monday
+
+**Today's Progress**: I tried to make my face with CSS.
+
+**Thoughts**: my face has many factors and it was really hard to visualize it.
+
+**Link(s) to work**
+
+1. [D10 commit](https://github.com/kmj673/100-days-of-code/tree/master/Daily%20Code%20Log/D10%20Myself)
+
 ### Day 9: December 27, 2020 Sunday
 
 **Today's Progress**: I made a cat with CSS.
