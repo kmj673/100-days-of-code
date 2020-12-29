@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 11: December 29, 2020 Tuesday
+
+**Today's Progress**: I made character counter with htmls, css and JS. I feel like I code for twitter app.
+
+**Thoughts**: it is useful, onkeyup event.
+
+**Link(s) to work**
+
+1. [D11 commit](https://github.com/kmj673/100-days-of-code/tree/master/Daily%20Code%20Log/D11%20Count)
+2. [Live Character Counter using CSS & Javascript | Mini Project](https://youtu.be/uMxvRVfqyc8)
+
 ### Day 10: December 28, 2020 Monday
 
 **Today's Progress**: I tried to make my face with CSS.
