@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 12: December 30, 2020 Wednesday
+
+**Today's Progress**: I made toggle menu from profile like in social media. I learned that if I adjust top margin when it is hidden and visible, the dropdown menu could look like that it has animation when it is clicked.
+
+**Thoughts**: I will use it with my own webpage.
+
+**Link(s) to work**
+
+1. [D12 commit](https://github.com/kmj673/100-days-of-code/tree/master/Daily%20Code%20Log/D12%20Dropdown%20menu)
+2. [User Account Dropdown Menu using Html CSS & Vanilla Javascript](https://youtu.be/04u09KBBjfM)
+
 ### Day 11: December 29, 2020 Tuesday
 
 **Today's Progress**: I made character counter with htmls, css and JS. I feel like I code for twitter app.
