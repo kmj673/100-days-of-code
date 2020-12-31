@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 13: December 31, 2020 Thursday
+
+**Today's Progress**: I made 2021 happy new year banner with js, css, html. and the background is with math.random() in JS.
+
+**Thoughts**: it is quite similar steps that I did before. guess it is time to do it by myself without tutorial but with my idea.
+
+**Link(s) to work**
+
+1. [D13 commit](https://github.com/kmj673/100-days-of-code/tree/master/Daily%20Code%20Log/D13%202021%20Happy%20New%20Year)
+2. [Happy New Year Banner Animation | Twinkling Star Background Animation Effects using CSS & Javascript](https://youtu.be/Iw860SbfqP8)
+
 ### Day 12: December 30, 2020 Wednesday
 
 **Today's Progress**: I made toggle menu from profile like in social media. I learned that if I adjust top margin when it is hidden and visible, the dropdown menu could look like that it has animation when it is clicked.
