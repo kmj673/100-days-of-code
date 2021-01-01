@@ -8,7 +8,7 @@
 
 **Link(s) to work**
 
-1. [D14 commit]()
+1. [D14 commit](https://github.com/kmj673/100-days-of-code/tree/master/Daily%20Code%20Log/D14_Hover%20effect)
 2. [CSS Creative Clip-path Button Hover Effects](https://youtu.be/bdPXAl2mRTA)
 
 ### Day 13: December 31, 2020 Thursday
