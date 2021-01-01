@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 14: January 01, 2021 Frisday
+
+**Today's Progress**: I made button effect when it is hovered by mouse. I used clip path finder. With 2 span object, it is like photoshop layers.
+
+**Thoughts**: it is simple but it is good to notice when it is hovered. I will use it for my website items object.
+
+**Link(s) to work**
+
+1. [D14 commit]()
+2. [CSS Creative Clip-path Button Hover Effects](https://youtu.be/bdPXAl2mRTA)
+
 ### Day 13: December 31, 2020 Thursday
 
 **Today's Progress**: I made 2021 happy new year banner with js, css, html. and the background is with math.random() in JS.
