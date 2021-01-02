@@ -1,6 +1,19 @@
 # 100 Days Of Code - Log
 
-### Day 14: January 01, 2021 Frisday
+### Day 15: January 02, 2021 Saturday
+
+**Today's Progress**: I made progress bar with text, used webkit. and also made a ripple button effect when it's clicked, used coordinate of clicked point and made span object.
+
+**Thoughts**: be careful with spelling and case. setTimeout => "o" is not uppercase.
+
+**Link(s) to work**
+
+1. [D15 commit](https://github.com/kmj673/100-days-of-code/tree/master/Daily%20Code%20Log/D15_loading_effect/loading)
+2. [CSS Creative Text Animation Effects | Amazing Animated Text using Html & CSS](https://youtu.be/ccO2B40zkv4)
+3. [D15 commit](https://github.com/kmj673/100-days-of-code/tree/master/Daily%20Code%20Log/D15_loading_effect/ripple)
+4. [Button Ripple Effect on Click Using CSS3 & Vanilla Javascript](https://youtu.be/ueyRcYEmsrI)
+
+### Day 14: January 01, 2021 Friday
 
 **Today's Progress**: I made button effect when it is hovered by mouse. I used clip path finder. With 2 span object, it is like photoshop layers.
 
