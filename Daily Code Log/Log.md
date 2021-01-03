@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 15: January 03, 2021 Sunday
+
+**Today's Progress**: I made what I own website hompage with html and css. I made a background color picker but need more work with iteration.
+
+**Thoughts**: still many things to learn and search. but of course it is. I knew it isn't that easy.
+
+**Link(s) to work**
+
+1. [D16 commit](https://github.com/kmj673/100-days-of-code/tree/master/Daily%20Code%20Log/D16_frontpage)
+
 ### Day 15: January 02, 2021 Saturday
 
 **Today's Progress**: I made progress bar with text, used webkit. and also made a ripple button effect when it's clicked, used coordinate of clicked point and made span object.
