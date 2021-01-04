@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
-### Day 15: January 03, 2021 Sunday
+### Day 17: January 04, 2021 Monday
+
+**Today's Progress**: I complete color picked background function but didnt figure out how to show it is picked one with solid 3px white border.
+
+**Thoughts**: so many tries and did only one function. frustrated.
+
+**Link(s) to work**
+
+1. [D16 commit](https://github.com/kmj673/100-days-of-code/tree/master/Daily%20Code%20Log/D16_frontpage)
+
+### Day 16: January 03, 2021 Sunday
 
 **Today's Progress**: I made what I own website hompage with html and css. I made a background color picker but need more work with iteration.
 
