@@ -8,7 +8,7 @@
 
 **Link(s) to work**
 
-1. [D16 commit](https://github.com/kmj673/100-days-of-code/tree/master/Daily%20Code%20Log/D16_frontpage)
+1. [D17 commit](https://github.com/kmj673/100-days-of-code/tree/master/Daily%20Code%20Log/D17)
 
 ### Day 16: January 03, 2021 Sunday
 
