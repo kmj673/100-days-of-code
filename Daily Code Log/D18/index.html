@@ -24,7 +24,12 @@
     <script>
       function changeBackground(color) {
         document.body.style.background = color;
-        event.target.classList.add("mystyle");
+
+        if ((color = event.target.style.backgroundColor)) {
+          event.target.classList.add("mystyle");
+        } else {
+          event.target.classList.remove("mystyle");
+        }
       }
       function change(color) {
         document

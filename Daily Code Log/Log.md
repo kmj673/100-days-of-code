@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 18: January 05, 2021 Tuesday
+
+**Today's Progress**: I found a way to add white ring on the selected one but still have problem with that I don't know how to remove it when it is not the color of the background.
+
+**Thoughts**: I figured out some way but not entirely. FRUSTRATING. STUCK ON SAME PAGE OVER DAYS.
+
+**Link(s) to work**
+
+1. [D18 commit](https://github.com/kmj673/100-days-of-code/tree/master/Daily%20Code%20Log/D18)
+
 ### Day 17: January 04, 2021 Monday
 
 **Today's Progress**: I complete color picked background function but didnt figure out how to show it is picked one with solid 3px white border.
