@@ -8,7 +8,7 @@
 
 **Link(s) to work**
 
-1. [D19 commit]()
+1. [D19 commit](https://github.com/kmj673/100-days-of-code/tree/master/Daily%20Code%20Log/D19)
 
 ### Day 18: January 05, 2021 Tuesday
 
