@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 19: January 06, 2021 Wednesday
+
+**Today's Progress**: TODAY, I made a x button and sign in, sign up modal with js and css of course html.
+
+**Thoughts**: I gave up to give white ring when it is selected, when I could calm down, I will find the way I can solve that problem with JS.
+
+**Link(s) to work**
+
+1. [D19 commit]()
+
 ### Day 18: January 05, 2021 Tuesday
 
 **Today's Progress**: I found a way to add white ring on the selected one but still have problem with that I don't know how to remove it when it is not the color of the background.
