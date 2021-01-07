@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 20: January 07, 2021 Thursday
+
+**Today's Progress**: I started js 30days challenge.
+
+**Thoughts**: maybe I need to learn it from the scratch.
+
+**Link(s) to work**
+
+1. [01 Introduction](https://github.com/kmj673/30-Days-Of-JavaScript/blob/master/readMe.md)
+
 ### Day 19: January 06, 2021 Wednesday
 
 **Today's Progress**: TODAY, I made a x button and sign in, sign up modal with js and css of course html.
