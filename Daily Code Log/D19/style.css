@@ -32,6 +32,9 @@ body {
 .color-picker div:hover {
   border: solid 3px #fff;
 }
+.mystyle {
+  border: 3px solid #fff;
+}
 .black {
   background-color: #000;
 }
