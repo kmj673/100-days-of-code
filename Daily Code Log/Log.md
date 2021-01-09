@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 22: January 09, 2021 Saturday
+
+**Today's Progress**: I finished data type of js
+
+**Thoughts**: so many things that I can use from JS. It was good practice.
+
+**Link(s) to work**
+
+1. [02 Data Types](https://github.com/kmj673/100-days-of-code/tree/master/Daily%20Code%20Log/D22_javascript02)
+
 ### Day 20: January 07, 2021 Thursday
 
 **Today's Progress**: I started js 30days challenge.
