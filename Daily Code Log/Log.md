@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 23: January 10, 2021 Sunday
+
+**Today's Progress**: I learned window.onmousemove in JS.
+
+**Thoughts**: There is so many things I can use in github "opensource"!
+
+**Link(s) to work**
+
+1. [D23 commit](https://github.com/kmj673/100-days-of-code/tree/master/Daily%20Code%20Log/D23_circle_3D)
+2. [Circle Text Animation using CSS & Splitting.js | CSS Text Effects](https://youtu.be/yfwD-AKRCcA)
+3. [3D Circle Text Rotation Effects on mousemove using CSS & Javascript | Splitting.js](https://youtu.be/QvERvfZl8qc)
+
 ### Day 22: January 09, 2021 Saturday
 
 **Today's Progress**: I finished data type of js
