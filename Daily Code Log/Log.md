@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 24: January 11, 2021 Monday
+
+**Today's Progress**: I studied boolean and Date in JS
+
+**Thoughts**: Very much confused.
+
+**Link(s) to work**
+
+1. [03 Booleans, Operators, Date](https://github.com/kmj673/100-days-of-code/tree/master/Daily%20Code%20Log/D24_javascript03)
+
 ### Day 23: January 10, 2021 Sunday
 
 **Today's Progress**: I learned window.onmousemove in JS.
