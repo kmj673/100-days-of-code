@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 25: January 12, 2021 Tuesday
+
+**Today's Progress**: I studied quadratic equation in javascript for exercise.
+
+**Thoughts**: I need to study math to solve the problem and the root of quadratic equation.
+
+**Link(s) to work**
+
+1. [03 Booleans, Operators, Date](https://github.com/kmj673/100-days-of-code/tree/master/Daily%20Code%20Log/D25_javascript03)
+
 ### Day 24: January 11, 2021 Monday
 
 **Today's Progress**: I studied boolean and Date in JS
