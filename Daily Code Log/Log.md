@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 28: January 15, 2021 Friday
+
+**Today's Progress**: I finished excercise 3.
+
+**Thoughts**: please don't be lazy.
+
+**Link(s) to work**
+
+1. [03 Booleans, Operators, Date](https://github.com/kmj673/100-days-of-code/tree/master/Daily%20Code%20Log/D28_javascript03)
+
 ### Day 25: January 12, 2021 Tuesday
 
 **Today's Progress**: I studied quadratic equation in javascript for exercise.
