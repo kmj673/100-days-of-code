@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 30: January 17, 2021 Sunday
+
+**Today's Progress**: I finished js04 conditionals
+
+**Thoughts**: I didn't do properly with exercise? I wrote it down one by one but I guess the purpose is different.
+
+**Link(s) to work**
+
+1. [04 Conditionals](https://github.com/kmj673/100-days-of-code/tree/master/Daily%20Code%20Log/D30_javascript04)
+
 ### Day 28: January 15, 2021 Friday
 
 **Today's Progress**: I finished excercise 3.
